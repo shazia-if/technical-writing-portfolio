@@ -6,7 +6,7 @@ Welcome to my collection of technical and academic writing! This repository cont
 
 ### Research Papers
 This section retains my academic works including literature reviews and research papers on emerging technologies and machine learning topics. 
-📁 [`/research-papers`](./Research Papers)
+📁 [`/research-papers`](./research-papers)
 
 ### Project Reports
 Reports written as part of data science and machine learning projects. These include detailed introduction, analysis, visualizations, methodologies, gathered trends or patterns (if any) and the project conclusions.  
